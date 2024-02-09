@@ -48,6 +48,7 @@ display: none;
 @media all and (max-width: 800px){
 body{
 height: 100vh;
+background-image: url(5.jpg);
 }
   
 .header, .links{
