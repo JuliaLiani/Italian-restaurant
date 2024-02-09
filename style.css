@@ -48,8 +48,9 @@ display: none;
 @media all and (max-width: 800px){
 body{
 height: 100vh;
-background-image: url(1.jpeg);
-};
+background-image: url(1.jpg);
+}
+  
 .header, .links{
 margin-left: 100px;
 display: flex;
